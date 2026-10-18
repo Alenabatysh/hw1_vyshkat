@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\bin\Debug\net8.0\VyshKat.Application.deps.json
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\bin\Debug\net8.0\VyshKat.Application.dll
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\bin\Debug\net8.0\VyshKat.Application.pdb
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\bin\Debug\net8.0\VyshKat.Domain.dll
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\bin\Debug\net8.0\VyshKat.Domain.pdb
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\VyshKat.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\VyshKat.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\VyshKat.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\VyshKat.Application.AssemblyInfo.cs
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\VyshKat.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\VyshKat..FFDA2B3F.Up2Date
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\VyshKat.Application.dll
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\refint\VyshKat.Application.dll
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\VyshKat.Application.pdb
+C:\Users\Asus\source\repos\VyshKat\VyshKat.Application\obj\Debug\net8.0\ref\VyshKat.Application.dll

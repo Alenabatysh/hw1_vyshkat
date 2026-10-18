@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VyshKat.Domain", "VyshKat.Domain\VyshKat.Domain.csproj", "{A548F139-AE1F-4A46-B288-95BA829F8429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VyshKat.Application", "VyshKat.Application\VyshKat.Application.csproj", "{029DC3D7-2E95-4F8A-8129-7A59DB5F6493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VyshKat.ConsoleApp", "VyshKat.ConsoleApp\VyshKat.ConsoleApp.csproj", "{DBCD1415-5A74-4411-8FBE-59DBA77701FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VyshKat.Tests", "VyshKat.Tests\VyshKat.Tests.csproj", "{5CB9D449-43F0-44B3-A45D-57B752918EC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A548F139-AE1F-4A46-B288-95BA829F8429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A548F139-AE1F-4A46-B288-95BA829F8429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A548F139-AE1F-4A46-B288-95BA829F8429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A548F139-AE1F-4A46-B288-95BA829F8429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029DC3D7-2E95-4F8A-8129-7A59DB5F6493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029DC3D7-2E95-4F8A-8129-7A59DB5F6493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029DC3D7-2E95-4F8A-8129-7A59DB5F6493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029DC3D7-2E95-4F8A-8129-7A59DB5F6493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCD1415-5A74-4411-8FBE-59DBA77701FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCD1415-5A74-4411-8FBE-59DBA77701FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCD1415-5A74-4411-8FBE-59DBA77701FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCD1415-5A74-4411-8FBE-59DBA77701FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB9D449-43F0-44B3-A45D-57B752918EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB9D449-43F0-44B3-A45D-57B752918EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB9D449-43F0-44B3-A45D-57B752918EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB9D449-43F0-44B3-A45D-57B752918EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B8F0F07-64EA-4ECC-AA64-E6916A1006B8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VyshKat.Application/1.0.0": {
+        "dependencies": {
+          "VyshKat.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VyshKat.Application.dll": {}
+        }
+      },
+      "VyshKat.Domain/1.0.0": {
+        "runtime": {
+          "VyshKat.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VyshKat.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VyshKat.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
